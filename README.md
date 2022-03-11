@@ -21,7 +21,7 @@
 </h3>
 
 <h4 align="center">
-    <p>A ferramenta que eu escolhi para fazer os testes automatizados foi o 'Ghost Inspector', particularmente não tinha conhecimendo dessa ferramenta e foi exatamente essa a minha motivação em escolhe-lho para fazer o meu desafio técnico. Escolhi para me desafiar e porque gosto de aprender novas ferramente sempre que possivel.</p>
+    <p>A ferramenta que eu escolhi para fazer os testes automatizados foi o 'Ghost Inspector', particularmente não tinha conhecimento dessa ferramenta e foi exatamente essa a minha motivação para a escolha. Escolhi para me desafiar e porque gosto de aprender novas ferramentas sempre que possivel.</p>
   <br>
 </h4>
 
@@ -30,7 +30,7 @@
 </h3>
 
 <h4 align="center">
-  <p>Vantagens: Tive a grata surpressa de ser uma ferramente bastante prática, em que você pode facilmente administrar seus projetos e cenários de testes, pode editar cada step individualmente, além de ter um video gravado da sua automação rodando e uma screenshot final.</p>
+  <p>Vantagens: Você pode facilmente administrar seus projetos e cenários de testes, pode editar cada step individualmente, além de ter um video gravado da sua automação rodando e uma screenshot final.</p>
   <br>
 </h4>
 
