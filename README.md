@@ -4,7 +4,7 @@
 </h1>
 
 <h1 align="center">
-    Victor Luis - Desafio Técnico
+    Desafio Técnico
 </h1>
 
 <h4 align="center">
