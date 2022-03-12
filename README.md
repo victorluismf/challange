@@ -21,7 +21,7 @@
 </h3>
 
 <h4 align="center">
-    <p>Particularmente não tinha conhecimento dessa ferramenta e foi exatamente essa a minha motivação para a escolha. Escolhi para me desafiar e porque gosto de aprender novas ferramentas sempre que possível.</p>
+    <p>Eu particularmente não conhecia essa ferramenta e foi exatamente essa a minha motivação em utiliza-lo no desafio técnico. Escolhi para me desafiar e porque gosto de aprender novas ferramentas sempre que possível.</p>
   <br>
 </h4>
 
