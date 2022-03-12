@@ -30,7 +30,7 @@
 </h3>
 
 <h4 align="center">
-  <p>Vantagens: Você pode facilmente administrar seus projetos e cenários de testes, pode editar cada step individualmente, além de ter um video gravado da sua automação rodando e uma screenshot final.</p>
+  <p>Você pode facilmente administrar seus projetos e cenários de testes, pode editar cada step individualmente, além de ter um video gravado da sua automação rodando e uma screenshot final.</p>
   <br>
 </h4>
 
