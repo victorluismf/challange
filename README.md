@@ -13,7 +13,7 @@
 </h4>
 
 <h2 align="center">
-    Escolha do Frawework: Ghost Inspector.
+    Escolha do Framework: Ghost Inspector.
 </h2>
 
 <h3 align="center">
