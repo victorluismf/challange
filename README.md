@@ -8,7 +8,7 @@
 </h1>
 
 <h4 align="center">
-  <p>VIDEO DE APRESENTAÇÃO: https://www.loom.com/embed/d1f6e2f893454b86ac52c7d83f83c234</p>
+  <p>VÍDEO DE APRESENTAÇÃO: https://www.loom.com/embed/d1f6e2f893454b86ac52c7d83f83c234</p>
   <br>
 </h4>
 
