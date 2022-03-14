@@ -39,7 +39,7 @@
 </h3>
 
 <h4 align="center">
-  <p>Desvantagens: Pouca documentação sobre a ferramenta na internet.</p>
+  <p>Pouca documentação sobre a ferramenta na internet.</p>
   <br>
 </h4>
 
